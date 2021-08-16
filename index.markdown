@@ -4,3 +4,4 @@
 
 layout: home
 ---
+あなたは ![Visitor Count](https://profile-counter.glitch.me/shun178/count.svg) 人目のお客様です！！
